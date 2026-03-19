@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "medical-data-mcp-server"
-version = "0.1.0"
+version = "0.1.1"
 description = "Health and medical data for AI agents — WHO disease data, drug info, clinical trials, health statistics"
 readme = "README.md"
 license = {text = "MIT"}
